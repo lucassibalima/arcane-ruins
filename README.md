@@ -42,19 +42,17 @@ O projeto foi desenvolvido com o objetivo de aplicar conceitos de lógica de jog
 
 ## 📸 Capturas de Tela
 
-Adicione aqui imagens do jogo.
-
 ### Tela Inicial
 
-*(Inserir imagem do menu principal)*
+<img width="1792" height="1120" alt="imagem construct" src="https://github.com/user-attachments/assets/2fc188c2-7d89-4eb8-bad2-96072dff7cdd" />
+
+
 
 ### Gameplay
 
-*(Inserir imagem do personagem explorando o cenário)*
+<img width="1792" height="1120" alt="imagem construct 2" src="https://github.com/user-attachments/assets/ee276e12-87a8-47fd-b887-ddb126341a12" />
 
-### Desafios e Obstáculos
 
-*(Inserir imagem mostrando alguma mecânica do jogo)*
 
 ---
 
